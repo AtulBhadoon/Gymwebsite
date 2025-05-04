@@ -12,7 +12,7 @@ window.onscroll = () => {
 }
 
 const typed = new Typed('.multiple-text',  {
-    strings: ['Made With Ronak Sharma', 'Made With Atul Jangid'],
+    strings: ['Owner by Rahul Saini', 'Made With Atul Jangid'],
     typeSpeed: 60,
     backSpeed: 60,
     backDelay: 1000,
