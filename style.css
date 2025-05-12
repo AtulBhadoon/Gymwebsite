@@ -146,11 +146,11 @@ span {
 }
 
 .home-img img {
-    width: 45vw;
+    width: 55vw;
 }
 
 .home-img::before {
-    content: "FITNESS";
+    content: "PHARMACY";
     position: absolute;
     top: 10%;
     left: 30%;
@@ -239,7 +239,7 @@ span {
     gap: 1rem;
 }
 
-.about-img img {
+.about-img video {
     width: 50vw;
     width: 50vw;
     border: 2px solid var(--text-color);
